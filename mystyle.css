@@ -1,0 +1,9 @@
+h1 {
+  color: gold; background-color: purple; text-align: center;
+}
+body {
+  color: gold; background-color: purple; font-style: arial;
+}
+ul {
+  list-style-type: circle;
+}
